@@ -4,7 +4,7 @@
 
 In the terminal, use `cd` to change into the project directory (where this README is).
 ```shell
-cd unit-4-lab-2-flask
+cd <project-directory>
 ```
 
 Run the script to start the Flask server. This command will install dependencies
@@ -25,7 +25,7 @@ chmod 777 run-flask.sh
 
 In the terminal, use `cd` to change into the project directory (where this README is).
 ```shell
-cd unit-4-lab-2-flask
+cd <project-directory>
 ```
 
 Build the Docker container image.
